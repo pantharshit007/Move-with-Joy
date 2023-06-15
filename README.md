@@ -6,7 +6,7 @@ Welcome to Move it, a web application aimed at learning and practicing Web D whi
 
 ## Live Demo
 
-Check out the live demo of Move it [here](https://pantharshit007.github.io/Move-with-Joy/).
+Check out the live demo of Move it [here](https://pantharshit007.github.io/Move-with-Joy/).{:target="_blank"}.
 
 ## Technologies Used
 
